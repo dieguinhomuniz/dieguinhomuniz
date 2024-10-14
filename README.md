@@ -3,7 +3,7 @@
 
 
 - :office: I’m currently working on Sports Marketing at Milk Comunicação com gente saúdavel
-- :books: I’m currently learning Web Development and Data Bank at Alura
+- :books: I’m currently learning Business Inteligence
 - :pray: I’m looking for a job in a companny of technnology
 - :runner: A fact of me: I'm runner, marathon runner
 
