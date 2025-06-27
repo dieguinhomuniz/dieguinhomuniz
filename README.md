@@ -2,9 +2,8 @@
 ## Welcome to my profile on GitHub :v:
 
 
-- :office: I’m currently working on Sports Marketing at Milk Comunicação com gente saúdavel
-- :books: I’m currently learning Business Inteligence
-- :pray: I’m looking for a job in a companny of technnology
+- :office: I’m currently working on Bimbo Brazil
+- :books: I’m currently learning Business Inteligence, IA and programming
 - :runner: A fact of me: I'm runner, marathon runner
 
 ## What I learning:
