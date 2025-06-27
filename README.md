@@ -1,15 +1,15 @@
-# Olá, meu nome é Diego, mas conhecido como _Dieguinho_ 😜
+# Hello, my name is Diego, but they call me _Dieguinho_ 😜
 ## Welcome to my profile on GitHub :v:
 
 
 - :office: I’m currently working on Bimbo Brazil
 - :books: I’m currently learning Business Inteligence, IA and programming
 - :runner: A fact of me: I'm runner, marathon runner
-
+<!--
 ## What I learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
+-->
 ## How to reach me:
 
 <div>
